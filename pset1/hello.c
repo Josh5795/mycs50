@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+//declare main function
 int main(void)
 {
-printf("hello, world  ");
+    //print message
+    printf("Hello, world!\n");
 }
